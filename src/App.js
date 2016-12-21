@@ -440,7 +440,7 @@ Ext.define('CustomApp', {
                 chart: {
                 },
                 title: {
-                text: 'PSI Feature Burnup ('+ app.configReleases  +')',
+                text: 'Release Feature Burnup ('+ app.configReleases  +')',
                 x: -20 //center
                 },
                 plotOptions: {
